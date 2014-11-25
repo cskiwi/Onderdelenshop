@@ -47,12 +47,12 @@ namespace Onderdelenshop.Migrations{
 				new Part{
 					Title = "Some awesome part",
 					Description = "This is an awesome part with some more awesome description",
-					User = user1
+					UserId = user1.Id
 				},
 				new Part{
 					Title = "Some awesome part2",
 					Description = "This is an awesome part2 with some more awesome description",
-					User = user1
+					UserId = user1.Id
 				}
 				);
 		}

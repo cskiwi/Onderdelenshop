@@ -9117,3 +9117,213 @@ DEBUG 2014-11-25 11:28:01,426 [1    ] Abp.Modules.AbpModuleManager             -
 DEBUG 2014-11-25 11:28:01,427 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.Web.OnderdelenshopWebModule, Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-11-25 11:28:01,427 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopWebApiModule, Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-11-25 11:28:01,430 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2014-11-25 12:31:53,391 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-25 12:31:54,598 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,609 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,609 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-25 12:31:54,609 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,611 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,611 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-25 12:31:54,612 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,620 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,620 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-25 12:31:54,620 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,621 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,621 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-25 12:31:54,621 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,625 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,625 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-25 12:31:54,625 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-25 12:31:54,632 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-25 12:31:54,643 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-25 12:31:54,645 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:31:54,685 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:31:54,685 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:31:54,686 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:31:54,696 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-25 12:31:54,948 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-25 12:31:54,955 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-25 12:31:54,963 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-25 12:31:54,989 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,990 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,990 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopApplicationModule
+DEBUG 2014-11-25 12:31:54,990 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,991 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,991 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopCoreModule
+DEBUG 2014-11-25 12:31:54,992 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,994 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,994 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopDataModule
+DEBUG 2014-11-25 12:31:54,994 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,995 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,995 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.Web.OnderdelenshopWebModule
+DEBUG 2014-11-25 12:31:54,995 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:54,995 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:31:54,995 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopWebApiModule
+DEBUG 2014-11-25 12:31:54,995 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:31:55,021 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:31:55,021 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Linq.Dynamic, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,022 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,033 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:31:55,033 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:31:55,033 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,106 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,132 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,135 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,168 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,170 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,183 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,184 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,190 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,191 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:31:55,231 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-25 12:31:55,235 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopApplicationModule, Onderdelenshop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopCoreModule, Onderdelenshop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopDataModule, Onderdelenshop.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.Web.OnderdelenshopWebModule, Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopWebApiModule, Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:31:55,244 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2014-11-25 12:36:04,079 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-25 12:36:05,246 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,258 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,258 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-25 12:36:05,258 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,261 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,261 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-25 12:36:05,261 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,271 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,271 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-25 12:36:05,271 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,272 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,272 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-25 12:36:05,272 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,275 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,275 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-25 12:36:05,275 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-25 12:36:05,282 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-25 12:36:05,293 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-25 12:36:05,295 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:36:05,329 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:36:05,329 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:36:05,329 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:36:05,338 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-25 12:36:05,579 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-25 12:36:05,587 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-25 12:36:05,594 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-25 12:36:05,617 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,618 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,618 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopApplicationModule
+DEBUG 2014-11-25 12:36:05,618 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,619 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,619 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopCoreModule
+DEBUG 2014-11-25 12:36:05,619 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,621 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,621 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopDataModule
+DEBUG 2014-11-25 12:36:05,621 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,622 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,622 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.Web.OnderdelenshopWebModule
+DEBUG 2014-11-25 12:36:05,622 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,622 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:36:05,622 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopWebApiModule
+DEBUG 2014-11-25 12:36:05,622 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:36:05,643 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:36:05,643 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Linq.Dynamic, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,645 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,654 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:36:05,654 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:36:05,654 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,679 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,704 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,707 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,739 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,741 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,754 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,754 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,761 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,761 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:36:05,799 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-25 12:36:05,804 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,806 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,806 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,806 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,806 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopApplicationModule, Onderdelenshop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopCoreModule, Onderdelenshop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopDataModule, Onderdelenshop.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.Web.OnderdelenshopWebModule, Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopWebApiModule, Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:36:05,810 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
+DEBUG 2014-11-25 12:39:33,624 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2014-11-25 12:39:34,687 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:34,698 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:34,698 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.AbpCoreModule
+DEBUG 2014-11-25 12:39:34,698 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.EntityFramework, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:34,700 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:34,700 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.EntityFramework.AbpEntityFrameworkModule
+DEBUG 2014-11-25 12:39:34,701 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Api, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:34,710 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:34,710 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.WebApi.AbpWebApiModule
+DEBUG 2014-11-25 12:39:34,710 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:34,710 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:34,710 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.AbpWebModule
+DEBUG 2014-11-25 12:39:34,711 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Abp.Web.Mvc, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:34,713 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:34,713 [1    ] Abp.Modules.DefaultModuleFinder          - - Abp.Web.Mvc.AbpWebMvcModule
+DEBUG 2014-11-25 12:39:34,713 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f
+DEBUG 2014-11-25 12:39:34,720 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-25 12:39:34,732 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: AutoMapper.Net4, Version=3.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+DEBUG 2014-11-25 12:39:34,734 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Core, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:39:34,769 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Facilities.Logging, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:39:34,769 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Services.Logging.Log4netIntegration, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:39:34,770 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Castle.Windsor, Version=3.3.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+DEBUG 2014-11-25 12:39:34,779 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-25 12:39:35,033 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DEBUG 2014-11-25 12:39:35,044 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821
+DEBUG 2014-11-25 12:39:35,052 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+DEBUG 2014-11-25 12:39:35,085 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,086 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:35,086 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopApplicationModule
+DEBUG 2014-11-25 12:39:35,086 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,087 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:35,087 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopCoreModule
+DEBUG 2014-11-25 12:39:35,087 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,088 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:35,088 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopDataModule
+DEBUG 2014-11-25 12:39:35,088 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,089 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:35,089 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.Web.OnderdelenshopWebModule
+DEBUG 2014-11-25 12:39:35,089 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,089 [1    ] Abp.Modules.DefaultModuleFinder          - Found modules:
+DEBUG 2014-11-25 12:39:35,089 [1    ] Abp.Modules.DefaultModuleFinder          - - Onderdelenshop.OnderdelenshopWebApiModule
+DEBUG 2014-11-25 12:39:35,089 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Collections.Immutable, Version=1.0.34.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:39:35,110 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Diagnostics.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:39:35,110 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Linq.Dynamic, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,111 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Net.Http.Formatting, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,118 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:39:35,118 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Runtime.InteropServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+DEBUG 2014-11-25 12:39:35,118 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,142 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,170 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Http.WebHost, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,173 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,206 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,208 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,220 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,221 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,228 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,229 [1    ] Abp.Modules.DefaultModuleFinder          - Searching ABP modules in assembly: WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+DEBUG 2014-11-25 12:39:35,268 [1    ] Abp.Modules.DefaultModuleFinder          - Found 10 ABP modules in total.
+DEBUG 2014-11-25 12:39:35,274 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpCoreModule, Abp, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,276 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,276 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,276 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,276 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.4.3.1, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,276 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopApplicationModule, Onderdelenshop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,277 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopCoreModule, Onderdelenshop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,277 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopDataModule, Onderdelenshop.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,277 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.Web.OnderdelenshopWebModule, Onderdelenshop.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,277 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Onderdelenshop.OnderdelenshopWebApiModule, Onderdelenshop.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-11-25 12:39:35,280 [1    ] Abp.Modules.AbpModuleManager             - 10 modules loaded.
