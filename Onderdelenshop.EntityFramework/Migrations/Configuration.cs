@@ -1,4 +1,5 @@
 using System.Data.Entity.Migrations;
+using System.Security.Cryptography;
 using Onderdelenshop.EntityFramework;
 using Onderdelenshop.Parts;
 using Onderdelenshop.Users;
@@ -11,13 +12,35 @@ namespace Onderdelenshop.Migrations{
 		}
 
 		protected override void Seed(OnderdelenshopDbContext context){
-			var user1 = new User{Name = "Isaac Asimov"};
+
+			var user1 = new User
+			{
+				Name = "Isaac Asimov",
+				Username = "Steve",
+				Email = "Steve@gmail.com",
+				Password = "test"
+			};
 			context.Users.AddOrUpdate(
 				p => p.Name,
 				user1,
-				new User{Name = "Thomas More"},
-				new User{Name = "George Orwell"},
-				new User{Name = "Douglas Adams"}
+				new User{
+					Name = "Thomas More",
+					Username = "ItchyGamer",
+					Email = "ItchyGamer@gmail.com",
+					Password = "test"
+				},
+				new User{
+					Name = "George Orwell",
+					Username = "FastGamer",
+					Email = "FastGamer@gmail.com",
+					Password = "test"
+				},
+				new User{
+					Name = "Douglas Adams",
+					Username = "ItchyGamer",
+					Email = "FlutteringGamer@gmail.com",
+					Password = "test"
+				}
 				);
 
 			context.Parts.AddOrUpdate(p => p.Title,

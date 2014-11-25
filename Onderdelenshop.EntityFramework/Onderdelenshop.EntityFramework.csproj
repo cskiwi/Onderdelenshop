@@ -84,6 +84,14 @@
     <Compile Include="Migrations\201411251012587_TestSeedingParts.Designer.cs">
       <DependentUpon>201411251012587_TestSeedingParts.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201411251114432_update Users.cs" />
+    <Compile Include="Migrations\201411251114432_update Users.Designer.cs">
+      <DependentUpon>201411251114432_update Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201411251116470_update Users_password.cs" />
+    <Compile Include="Migrations\201411251116470_update Users_password.Designer.cs">
+      <DependentUpon>201411251116470_update Users_password.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="OnderdelenshopDataModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,6 +109,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201411251012587_TestSeedingParts.resx">
       <DependentUpon>201411251012587_TestSeedingParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201411251114432_update Users.resx">
+      <DependentUpon>201411251114432_update Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201411251116470_update Users_password.resx">
+      <DependentUpon>201411251116470_update Users_password.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
