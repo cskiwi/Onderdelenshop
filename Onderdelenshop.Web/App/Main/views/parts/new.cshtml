@@ -1,0 +1,19 @@
+﻿<div ng-controller="os.views.part.new as vm">
+    <form id="NewPartForm" role="form" name="newPartForm" novalidate>
+        <div class="form-group">
+            <label for="PartTitle">@L("PartTitle")</label>
+            <input type="text" id="PartTitle" ng-model="vm.part.title" class="form-control" rows="3" placeholder="@L("EnterTitleHere")" required></input>
+        </div>
+        <div class="form-group">
+            <label for="PartDescription">@L("PartDescription")</label>
+            <textarea id="PartDescription" ng-model="vm.part.description" class="form-control" rows="3" placeholder="@L("EnterDescriptionHere")" required></textarea>
+        </div>
+        <div class="form-group">
+            <label for="PartPerson">@L("AssignTo")</label>
+            <select id="PartPerson" class="form-control" ng-model="vm.part.personId" ng-options="person.id as person.name for person in vm.people">
+                <option value="">@L("SelectPerson")</option>
+            </select>
+        </div>
+        <button ng-click="vm.savePart()" ng-disabled="newPartForm.$invalid" type="submit" class="btn btn-primary">@L("CreateThePart")</button>
+    </form>
+</div>

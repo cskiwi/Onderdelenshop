@@ -1,0 +1,34 @@
+﻿<div ng-controller="os.views.part.list as vm">
+
+    <div style="position: relative;">
+        <div class="row">
+            <!-- Title -->
+            <h3 class="col-xs-6">
+                @L("ListParts") - <span>{{vm.getPartCountText()}}</span>
+            </h3>
+
+            <!-- Part state combobox -->
+            <div class="col-xs-6 text-right">
+                <a href="~/#/new">@L("NewPart")</a>
+
+                <select ng-model="selectedPartState">
+                    <option value="0">@L("AllParts")</option>
+                    <option value="1">@L("Available")</option>
+                    <option value="2">@L("Available1Week")</option>
+                    <option value="3">@L("Available1Month")</option>
+                    <option value="4">@L("AvailableOnNotice")</option>
+                    <option value="99">@L("OutOfStock")</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- Part list -->
+    <article class="col-md-5 thumbnail" ng-repeat="part in vm.parts">
+        <h1>{{part.title}}</h1>
+        <div>{{part.description}}</div>
+        <span ng-show="part.userId">
+            <span>{{part.userName}}</span>
+        </span> &tilde; <small class="part-creationtime">{{part.creationTime | momentFromNow}}</small>
+    </article>
+</div>
